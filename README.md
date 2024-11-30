@@ -47,7 +47,7 @@
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
   </a>
   <!-- GSAP -->
   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
