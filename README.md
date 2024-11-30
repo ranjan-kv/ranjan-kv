@@ -39,17 +39,6 @@
   <!-- Add more tools as needed -->
 </p>
 
----
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan-kv&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjan-kv&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
 
 <h3 align="center">🎉 Fun with Coding</h3>
 <p align="center">
