@@ -44,8 +44,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Fun Coding GIF" width="300"/>
 </p>
-
-<h3 align="center">🚀 Highlighted Projects</h3>
-<p align="center">
-  <img src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://cars-wala.vercel.app/)" alt="Project Showcase GIF" width="300" />
-</p>
