@@ -27,8 +27,10 @@
 
 ---
 
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -47,7 +49,11 @@
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="Tailwind CSS" width="40" height="40" style="border-radius: 5px;"/>
+  </a>
+  <!-- GSAP -->
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/GraphtyLove/devicon/master/icons/gsap/gsap-original.svg" alt="GSAP" width="40" height="40"/>
   </a>
   <!-- Three.js -->
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
@@ -58,6 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
