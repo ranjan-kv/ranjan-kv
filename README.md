@@ -47,5 +47,5 @@
 
 <h3 align="center">🚀 Highlighted Projects</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Project Showcase GIF" width="300" />
+  <img src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://cars-wala.vercel.app/)" alt="Project Showcase GIF" width="300" />
 </p>
