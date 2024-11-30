@@ -49,10 +49,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-  <!-- GSAP -->
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/GraphtyLove/devicon/master/icons/gsap/gsap-original.svg" alt="GSAP" width="40" height="40"/>
-  </a>
   <!-- Three.js -->
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" style="background-color: white; border-radius: 5px;"/>
